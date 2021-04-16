@@ -1,6 +1,8 @@
 import Head from 'next/head'
 
 export default function Home() {
+  //const pedro = "pedro"
+
   return (
     <div className="container">
       <Head>
